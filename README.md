@@ -1,1 +1,2 @@
-# EC_320_final_repo
+# DSCI_350_final_repo
+not an econ class
